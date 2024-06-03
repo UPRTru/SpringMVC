@@ -27,6 +27,7 @@ logging:
 #          INFO
 #          OFF
 #          TRACE
+#          WARN
+
 server:
   port: 8080
-#          WARN
